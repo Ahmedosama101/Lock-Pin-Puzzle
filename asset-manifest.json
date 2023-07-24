@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Lock-pin-Puuzzle/static/css/main.f5eb606a.css",
-    "main.js": "/Lock-pin-Puuzzle/static/js/main.2154999e.js",
-    "static/js/787.dc03b30a.chunk.js": "/Lock-pin-Puuzzle/static/js/787.dc03b30a.chunk.js",
-    "static/media/celebration-sound1.mp3": "/Lock-pin-Puuzzle/static/media/celebration-sound1.be47daa4b22b2c6eba54.mp3",
-    "index.html": "/Lock-pin-Puuzzle/index.html",
-    "main.f5eb606a.css.map": "/Lock-pin-Puuzzle/static/css/main.f5eb606a.css.map",
-    "main.2154999e.js.map": "/Lock-pin-Puuzzle/static/js/main.2154999e.js.map",
-    "787.dc03b30a.chunk.js.map": "/Lock-pin-Puuzzle/static/js/787.dc03b30a.chunk.js.map"
+    "main.css": "/Lock-Pin-Puzzle/static/css/main.f5eb606a.css",
+    "main.js": "/Lock-Pin-Puzzle/static/js/main.e4c5f596.js",
+    "static/js/787.dc03b30a.chunk.js": "/Lock-Pin-Puzzle/static/js/787.dc03b30a.chunk.js",
+    "static/media/celebration-sound1.mp3": "/Lock-Pin-Puzzle/static/media/celebration-sound1.be47daa4b22b2c6eba54.mp3",
+    "index.html": "/Lock-Pin-Puzzle/index.html",
+    "main.f5eb606a.css.map": "/Lock-Pin-Puzzle/static/css/main.f5eb606a.css.map",
+    "main.e4c5f596.js.map": "/Lock-Pin-Puzzle/static/js/main.e4c5f596.js.map",
+    "787.dc03b30a.chunk.js.map": "/Lock-Pin-Puzzle/static/js/787.dc03b30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5eb606a.css",
-    "static/js/main.2154999e.js"
+    "static/js/main.e4c5f596.js"
   ]
 }
